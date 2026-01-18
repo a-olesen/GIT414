@@ -3,15 +3,15 @@ body{}
 
 /* medium */
 @media (min-width: 768px) {
-
+body{}
 }
 
 /* large */
 @media (min-width: 1024px) {
-
+body{}
 }
 
 /* xl */
 @media (min-width: 1280px) {
-
+body{} 
 }
